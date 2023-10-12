@@ -23,7 +23,7 @@
 </h1>
 
 <div align="center">
-  <img src="" width="700"/>
+  <!-- <img src="" width="700"/> -->
 </div>
 
 ---
